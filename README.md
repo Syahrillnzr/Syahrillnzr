@@ -20,19 +20,19 @@ Here are some ideas to get you started:
 ### 🛠️ Tech Stack
 
   Languages
-    💻 HTML
-    💻 JavaScript
-    💻 PHP
+    +💻 HTML
+    +💻 JavaScript
+    +💻 PHP
     
   Frameworks
-    🌐 Laravel
+    +🌐 Laravel
 
   Other Tools
-    🔧 Git
-    🔧 MySQL
+    +🔧 Git
+    +🔧 MySQL
 
 
 ### 🤝 Connect with Me
-  LinkedIn
-  Twitter
-  Personal Website
+  +LinkedIn
+  +Twitter
+  +Personal Website
