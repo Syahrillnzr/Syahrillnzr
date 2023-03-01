@@ -1,7 +1,6 @@
-### Hi there 👋
-
 ## Hi there 👋
 
+#### It me Syahrill Norizan and welcom to my GitHub Profile 
 <!--
 **Syahrillnzr/Syahrillnzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
