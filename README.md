@@ -3,10 +3,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm a web developer with a passion for creating clean, efficient code. I love learning about new technologies and frameworks, and I'm always looking for ways to improve my skills
 
-*   🌍  I'm based in Malaysia
+## About me
+*   🌍  I'm based in Malaysia 
 *   ✉️  You can contact me at [syahrillnorizan@gmail.com](mailto:syahrillnorizan@gmail.com)
-*   🧠  I'm learning Laravel### Skills 
-<p align="left">
+*   🧠  I'm learning Laravel
+  
+## Skills
+<div align="center">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
@@ -14,14 +17,27 @@ I'm a web developer with a passion for creating clean, efficient code. I love le
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 </p>
+</div>
                     
- ### Socials
-                  
-                  
-<p align="left">
-<a href="https://www.github.com/Syahrillnzr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>                       
-<a href="https://Syahrillnzr.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
- <a href="https://www.linkedin.com/in/syahrill-norizan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
- 
-### Badges<b>My GitHub Stats</b>
-<a href="http://www.github.com/Syahrillnzr"><img src="https://github-readme-stats.vercel.app/api?username=Syahrillnzr&show_icons=true&hide=&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Syahrillnzr's GitHub stats" /></a>
+## Connect with me 
+<div align="center">
+<a href="https://github.com/Syahrillnzr" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/syahrill-norizan" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://gitlab.com/Syahrillnzr" target="_blank">
+<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
+</a>
+<a href="https://hashnode.com/@Syahrillnzr" target="_blank">
+<img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+## Github Stats  
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Syahrillnzr&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>  
+
+<br/>  
