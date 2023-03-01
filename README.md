@@ -4,18 +4,17 @@ I'm a software developer with a passion for creating clean, efficient code. I lo
 ## Tech Stack
 Here are some of the languages and frameworks I'm proficient in:
 
-- Languages
+### Languages
 + HTML
-+ JavaScript 🌐
++ PHP
++ JavaScript 
 
-- Frameworks
-
-Flask 🌶️
-Spring Boot 🍃
-React ⚛️
+### Frameworks
++ Laravel
 
 ## Connect with me
 LinkedIn
 Portfolio
 Twitter
+
 Thanks for checking out my profile! Feel free to connect with me on LinkedIn or check out my portfolio for more information about my work.
