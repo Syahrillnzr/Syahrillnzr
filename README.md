@@ -17,4 +17,6 @@ LinkedIn
 Portfolio
 Twitter
 
+![Syahrillnzr GitHub stats](https://github-readme-stats.vercel.app/api?username=Syahrillnzr&show_icons=true&theme=transparent)
+
 Thanks for checking out my profile! Feel free to connect with me on LinkedIn or check out my portfolio for more information about my work.
