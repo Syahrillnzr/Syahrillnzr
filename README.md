@@ -5,9 +5,8 @@ I'm a software developer with a passion for creating clean, efficient code. I lo
 Here are some of the languages and frameworks I'm proficient in:
 
 - Languages
-Python 🐍
-Java ☕
-JavaScript 🌐
++ HTML
++ JavaScript 🌐
 
 - Frameworks
 
