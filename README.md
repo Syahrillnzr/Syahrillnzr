@@ -1,38 +1,22 @@
-## Hi there 👋
+# Hi there! 👋
+I'm a software developer with a passion for creating clean, efficient code. I love learning about new technologies and frameworks, and I'm always looking for ways to improve my skills.
 
-#### I'm Syahrill Norizan, a software developer with a passion for creating clean, efficient code. I love learning about new technologies and frameworks, and I'm always looking for ways to improve my skills.
-<!--
-**Syahrillnzr/Syahrillnzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
+Here are some of the languages and frameworks I'm proficient in:
 
+- Languages
+Python 🐍
+Java ☕
+JavaScript 🌐
 
-Here are some ideas to get you started:
+- Frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ..
-- ⚡ Fun fact: ...
--->
+Flask 🌶️
+Spring Boot 🍃
+React ⚛️
 
-### 🛠️ Tech Stack
-
-  Languages
-    +💻 HTML
-    +💻 JavaScript
-    +💻 PHP
-    
-  Frameworks
-    +🌐 Laravel
-
-  Other Tools
-    +🔧 Git
-    +🔧 MySQL
-
-
-### 🤝 Connect with Me
-  +LinkedIn
-  +Twitter
-  +Personal Website
+## Connect with me
+LinkedIn
+Portfolio
+Twitter
+Thanks for checking out my profile! Feel free to connect with me on LinkedIn or check out my portfolio for more information about my work.
