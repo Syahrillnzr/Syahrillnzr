@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-#### It me Syahrill Norizan and welcom to my GitHub Profile 
+#### I'm Syahrill Norizan, a software developer with a passion for creating clean, efficient code. I love learning about new technologies and frameworks, and I'm always looking for ways to improve my skills.
 <!--
 **Syahrillnzr/Syahrillnzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -15,3 +16,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ..
 - ⚡ Fun fact: ...
 -->
+
+### 🛠️ Tech Stack
+
+  Languages
+    💻 HTML
+    💻 JavaScript
+    💻 PHP
+    
+  Frameworks
+    🌐 Laravel
+
+  Other Tools
+    🔧 Git
+    🔧 MySQL
+
+
+### 🤝 Connect with Me
+  LinkedIn
+  Twitter
+  Personal Website
