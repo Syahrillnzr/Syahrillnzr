@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Syahrill Norizan
 ========================================================================================================================================
 
-I'm a web developer with a passion for creating clean, efficient code. I love learning about new technologies and frameworks, and I'm always looking for ways to improve my skills
+I'm a web developer with a passion for creating clean, efficient code. I love learning about new technologies and frameworks, and I'm always looking for ways to improve my skills.
 
 ## About me
 *   🌍  I'm based in Malaysia 
