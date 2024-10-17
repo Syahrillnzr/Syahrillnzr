@@ -6,7 +6,7 @@ I'm a web developer with a passion for creating clean, efficient code. I love le
 ## About me
 *   🌍  I'm based in Malaysia 
 *   ✉️  You can contact me at [syahrillnorizan@gmail.com](mailto:syahrillnorizan@gmail.com) or reach out my Linkedin profile below.
-*   🧠  I'm learning Laravel
+*   🧠  I'm learning Laravel and now Flutter
   
 ## Skills
 <div align="center">
