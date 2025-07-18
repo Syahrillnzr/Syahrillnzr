@@ -70,7 +70,7 @@ I'm a web developer with a passion for creating clean, efficient code. I love le
 <h2 align="center">GitHub Streak</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syahrillnzr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syahrillnzr&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
