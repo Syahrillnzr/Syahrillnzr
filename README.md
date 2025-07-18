@@ -40,4 +40,4 @@ I'm a web developer with a passion for creating clean, efficient code. I love le
 <br/> 
 
 ## Github Streak
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Syahrillnzr&" alt="Syahrillnzr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Syahrillnzr&" alt="Syahrillnzr" align="center"/></p>
