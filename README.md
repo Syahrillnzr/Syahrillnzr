@@ -42,6 +42,6 @@ I'm a web developer with a passion for creating clean, efficient code. I love le
 ## GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syahrillnzr&theme=tokyonight&hide_border=true" alt="Syahrillnzr's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syahrillnzr&hide_border=true" alt="Syahrillnzr's GitHub Streak" />
 </p>
 
