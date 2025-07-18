@@ -45,3 +45,18 @@ I'm a web developer with a passion for creating clean, efficient code. I love le
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syahrillnzr&hide_border=true" alt="Syahrillnzr's GitHub Streak" />
 </p>
 
+
+<div align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=syahrillnzr&label=Profile%20views&color=0e75b6&style=flat" alt="syahrillnzr" />
+
+  <br><br>
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=syahrillnzr&theme=dracula&margin-w=15&margin-h=15" alt="syahrillnzr trophies" />
+  </a>
+
+  <br><br>
+
+</div>
+
