@@ -75,14 +75,6 @@ I'm a web developer with a passion for creating clean, efficient code. I love le
 
 ---
 
-<h2 align="center">Profile Views</h2>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=syahrillnzr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
----
-
 <h2 align="center">Trophies</h2>
 
 <div align="center">
