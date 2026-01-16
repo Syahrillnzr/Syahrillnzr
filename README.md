@@ -63,7 +63,7 @@ I'm a web developer with a passion for creating clean, efficient code. I love le
 ![Top language](https://img.shields.io/github/languages/top/syahrillnzr/syahrillnzr.github.io)
 ![Last commit](https://img.shields.io/github/last-commit/syahrillnzr/syahrillnzr.github.io)
 
-<h2 align="center">GitHub Stats</h2>
+<!-- <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=syahrillnzr&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
@@ -85,4 +85,4 @@ I'm a web developer with a passion for creating clean, efficient code. I love le
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=syahrillnzr&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </a>
-</div>
+</div> -->
