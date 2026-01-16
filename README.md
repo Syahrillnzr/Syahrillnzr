@@ -58,14 +58,16 @@ I'm a web developer with a passion for creating clean, efficient code. I love le
 </div>
 
 ---
-<div align="center">
-  ![Repo size](https://img.shields.io/github/repo-size/syahrillnzr/syahrillnzr.github.io)
-  ![Top language](https://img.shields.io/github/languages/top/syahrillnzr/syahrillnzr.github.io)
-  ![Last commit](https://img.shields.io/github/last-commit/syahrillnzr/syahrillnzr.github.io)
-  ![Commits](https://img.shields.io/github/commit-activity/y/syahrillnzr/syahrillnzr.github.io)
-  ![Open issues](https://img.shields.io/github/issues/syahrillnzr/syahrillnzr.github.io)
-  ![Closed issues](https://img.shields.io/github/issues-closed/syahrillnzr/syahrillnzr.github.io)
-</div>
+
+<p align="center">
+  <img src="https://img.shields.io/github/repo-size/syahrillnzr/syahrillnzr.github.io" alt="Repo size" />
+  <img src="https://img.shields.io/github/languages/top/syahrillnzr/syahrillnzr.github.io" alt="Top language" />
+  <img src="https://img.shields.io/github/last-commit/syahrillnzr/syahrillnzr.github.io" alt="Last commit" />
+  <img src="https://img.shields.io/github/commit-activity/y/syahrillnzr/syahrillnzr.github.io" alt="Commits" />
+  <img src="https://img.shields.io/github/issues/syahrillnzr/syahrillnzr.github.io" alt="Open issues" />
+  <img src="https://img.shields.io/github/issues-closed/syahrillnzr/syahrillnzr.github.io" alt="Closed issues" />
+</p>
+
 
 
 
