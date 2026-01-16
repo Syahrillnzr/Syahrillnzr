@@ -62,7 +62,7 @@ I'm a web developer with a passion for creating clean, efficient code. I love le
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Syahrillnzr&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=syahrillnzr&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
 </div>
 
 ---
@@ -70,7 +70,7 @@ I'm a web developer with a passion for creating clean, efficient code. I love le
 <h2 align="center">GitHub Streak</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syahrillnzr&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syahrillnzr&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
