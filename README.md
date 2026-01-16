@@ -62,6 +62,14 @@ I'm a web developer with a passion for creating clean, efficient code. I love le
 ![Repo size](https://img.shields.io/github/repo-size/syahrillnzr/syahrillnzr.github.io)
 ![Top language](https://img.shields.io/github/languages/top/syahrillnzr/syahrillnzr.github.io)
 ![Last commit](https://img.shields.io/github/last-commit/syahrillnzr/syahrillnzr.github.io)
+![Commits](https://img.shields.io/github/commit-activity/y/syahrillnzr/syahrillnzr.github.io)
+![Open issues](https://img.shields.io/github/issues/syahrillnzr/syahrillnzr.github.io)
+![Closed issues](https://img.shields.io/github/issues-closed/syahrillnzr/syahrillnzr.github.io)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+
+
 
 <!-- <h2 align="center">GitHub Stats</h2>
 
