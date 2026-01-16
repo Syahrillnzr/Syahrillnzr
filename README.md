@@ -59,6 +59,10 @@ I'm a web developer with a passion for creating clean, efficient code. I love le
 
 ---
 
+![Repo size](https://img.shields.io/github/repo-size/syahrillnzr/syahrillnzr.github.io)
+![Top language](https://img.shields.io/github/languages/top/syahrillnzr/syahrillnzr.github.io)
+![Last commit](https://img.shields.io/github/last-commit/syahrillnzr/syahrillnzr.github.io)
+
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
